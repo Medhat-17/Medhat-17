@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Medhat-17
-- 👀 I’m interested in Theoretical physics,Ai engineering/mlops engineer, quantum machine learning, quantum topological insulators, pubished 70 paper
+- 👀 I’m interested in Theoretical physics,AI engineering(mlops engineer, quantum machine learning, quantum topological insulators, pubished 70 paper
 - 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
