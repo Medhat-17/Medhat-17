@@ -7,4 +7,5 @@
 - [Kaggle](https://www.kaggle.com/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [Deep Learning Specialization by Andrew Ng on Coursera](https://www.coursera.org/specializations/deep-learning)
+- [Pytorch c++](https://pytorch.org/cppdocs/)
 
