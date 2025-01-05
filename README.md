@@ -1,11 +1,4 @@
-- [TensorFlow](https://www.tensorflow.org/)
-- [PyTorch](https://pytorch.org/)
-- [scikit-learn](https://scikit-learn.org/)
-- [Deep Learning Paper](https://arxiv.org/abs/1409.2329)
-- [Attention is All You Need](https://arxiv.org/abs/1706.03762)
-- [Fast.ai](https://www.fast.ai/)
-- [Kaggle](https://www.kaggle.com/)
-- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
-- [Deep Learning Specialization by Andrew Ng on Coursera](https://www.coursera.org/specializations/deep-learning)
-- [Pytorch c++](https://pytorch.org/cppdocs/)
-
+-["OpenAI deep RL Resources"]("https://spinningup.openai.com/en/latest/index.html") 
+ ["A Recipe for Training Neural Networks, Andrej Karpathy"]("https://karpathy.github.io/2019/04/25/recipe/") 
+ ["Reinforcement Learning is Hard"]("https://www.alexirpan.com/2018/02/14/rl-hard.html")
+ 
