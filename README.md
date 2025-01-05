@@ -9,7 +9,7 @@
 - [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=43s)
 - [Reinforcement Learning Resources](https://stable-baselines3.readthedocs.io/en/master/guide/rl.html)
 - [Denny Britz’s Blog on RL](https://dennybritz.com/)
-- [Berkeley's CS 294: Deep Reinforcement Learnin](https://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
+- [Berkeley's CS 294: Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
 - [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLQdLcbnhr59lOXes8Zn5o6W8_F22Pjf-6)
 - [Deep Reinforcement Learning](https://deepmind.google/discover/blog/deep-reinforcement-learning/)
 - [Programming Autonomous self-driving cars with Carla and Python](https://www.youtube.com/watch?v=J1F32aVSYaU&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo)
