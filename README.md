@@ -2,7 +2,7 @@
 - [OpenAI Deep RL Resources](https://spinningup.openai.com/en/latest/index.html)
 - [A Recipe for Training Neural Networks, Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
 - [Reinforcement Learning is Hard](https://www.alexirpan.com/2018/02/14/rl-hard.html)
-- [The Bitter Lesson, R. Sutton](http://incompleteideas.net/IncIdeas/BitterLesson.html)
+- [The Bitter Lesson, R. Sutton](http://incompleteideas.net/book/the-book-2nd.html)
 - [Let's build GPT: from scratch, in code, spelled out 🔥](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=12s)
 - [Collections of RL Resources](https://github.com/aikorea/awesome-rl)
 - [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0?si=ww542HVxlB74jq7p)
