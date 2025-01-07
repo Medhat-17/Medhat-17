@@ -1,5 +1,6 @@
   ## Resources
 - [OpenAI Deep RL Resources](https://spinningup.openai.com/en/latest/index.html)
+- [AIMA GitHub Repository](https://github.com/aimacode/aima-python)
 - [A Recipe for Training Neural Networks, Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
 - [Reinforcement Learning is Hard](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 - [The Bitter Lesson, R. Sutton](http://incompleteideas.net/book/the-book-2nd.html)
