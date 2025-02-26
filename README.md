@@ -16,4 +16,5 @@
 - [Deep Reinforcement Learning](https://deepmind.google/discover/blog/deep-reinforcement-learning/)
 - [Programming Autonomous self-driving cars with Carla and Python](https://www.youtube.com/watch?v=J1F32aVSYaU&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo)
 - [Reinforcement learning in Robotics](https://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
+- [ML in finance](https://github.com/Doj-i/NYU_Machine_Learning_in_Finance)
   
