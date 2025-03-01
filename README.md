@@ -18,5 +18,18 @@
 - [Reinforcement learning in Robotics](https://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
 - [ML in finance](https://github.com/Doj-i/NYU_Machine_Learning_in_Finance)
 - [Majmudar Deep learning History](https://github.com/adam-maj/deep-learning)
-- 
-  
+- [Fast.ai](https://github.com/fastai/fastbook)
+- [christos](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [d2l](https://github.com/d2l-ai/d2l-en)
+- [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [Deep Learning Models Collection](https://github.com/rasbt/deeplearning-models)
+- [Machine Learning Tutorials, GRUs, LSTMS, VAEs, Boltzmann machines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [NVIDIA Deep Learning Examples](https://github.com/NVIDIA/DeepLearningExamples)
+- [Learn PyTorch for Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning)
+- [siddhardan](https://www.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
+- [some ML](https://github.com/gimseng/99-ML-Learning-Projects)
+- [Yt ML](https://www.youtube.com/playlist?list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ)
+- [Ai with noor](https://www.youtube.com/playlist?list=PLdF3rLdF4ICTDKN1VVTfAv35NR5mjK_hk)
+- [self-driving Cars](https://github.com/ndrplz/self-driving-car)
+ 
+
