@@ -37,5 +37,10 @@
 - [Neetcode Deep learning](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
 - [No BS PyTorch Tutorial (start here](https://www.youtube.com/watch?v=JlTIPYmdgJg)
 - [Ml basics](https://github.com/ayush714/Core-Machine-Learning-Course)
+- [Tensorflow 7 hours](https://youtu.be/tPYj3fFJGjk?si=oiG8YpU0dZF3CdW6)
+- [Keras](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
+- [why Machines learn - Anil ananthaswamy](https://youtu.be/URtF_UHYBSo?si=IQh33s6vQa1hCNv9)
+- [Backpropogation - Karpathy](https://youtu.be/VMj-3S1tku0?si=2p91sHoLJynEIP3Q)
+
 
 
