@@ -36,4 +36,6 @@
 - [Deep learning specialization](deep-learning-specialization)
 - [Neetcode Deep learning](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
 - [No BS PyTorch Tutorial (start here](https://www.youtube.com/watch?v=JlTIPYmdgJg)
+- [Ml basics](https://github.com/ayush714/Core-Machine-Learning-Course)
+
 
