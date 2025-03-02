@@ -31,5 +31,9 @@
 - [Yt ML](https://www.youtube.com/playlist?list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ)
 - [Ai with noor](https://www.youtube.com/playlist?list=PLdF3rLdF4ICTDKN1VVTfAv35NR5mjK_hk)
 - [self-driving Cars](https://github.com/ndrplz/self-driving-car)
- 
+- [nn-zero-to-hero by karpathy](https://github.com/karpathy/nn-zero-to-hero)
+- ["karpathy minigpt"](https://github.com/karpathy/minGPT)
+- [Deep learning specialization](deep-learning-specialization)
+- [Neetcode Deep learning](https://neetcode.io/practice?subpage=practice&tab=coreSkills&topic=Machine%20Learning)
+- [No BS PyTorch Tutorial (start here](https://www.youtube.com/watch?v=JlTIPYmdgJg)
 
