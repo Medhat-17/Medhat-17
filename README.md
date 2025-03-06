@@ -41,6 +41,5 @@
 - [Keras](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
 - [why Machines learn - Anil ananthaswamy](https://youtu.be/URtF_UHYBSo?si=IQh33s6vQa1hCNv9)
 - [Backpropogation - Karpathy](https://youtu.be/VMj-3S1tku0?si=2p91sHoLJynEIP3Q)
-
-
-
+- [Machine leanrign repos](https://github.com/recodehive/machine-learning-repos)
+  
